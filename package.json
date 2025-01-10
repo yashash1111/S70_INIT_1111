@@ -1,0 +1,27 @@
+{
+  "name": "s70_init_1111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashash1111/S70_INIT_1111.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashash1111/S70_INIT_1111/issues"
+  },
+  "homepage": "https://github.com/yashash1111/S70_INIT_1111#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
